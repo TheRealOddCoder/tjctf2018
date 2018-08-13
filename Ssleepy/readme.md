@@ -26,6 +26,7 @@ We can see the GET request of Flag.jpg. Following the **SSL Stream**, gives us t
 ![screenshot 348](https://user-images.githubusercontent.com/42334661/44037615-61bab5ea-9f32-11e8-9cce-bff9b93975fb.png)
 
 Editing the top few lines of the jpeg in HexEditor gives the flag.
+
 Flag : **tjctf{WIRESHARK_OR_SHARKWIRE?}**
 
 ![shark](https://user-images.githubusercontent.com/42334661/44037755-c26ec7be-9f32-11e8-852d-fa0015ace0f0.png)
