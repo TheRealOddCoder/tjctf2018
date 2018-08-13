@@ -8,6 +8,10 @@ Running file on the downloaded file, gives this
 
 As soon as I saw that this is a hdf5 file(.h5 file), i knew this task has something to do with machine learning.
 If you haven't learnt anything about neural network, figuring out this task will be difficult.
+A hdf5 or .h5 file is a trained neural network model.
+Training means, it has all the nodes in the layers interconnected and the weights to each node has been assigned.
+
+In laymen terms, it is now fully capable of predicting(when an input is given in a proper way).
 
 I opened the file using keras library in python
 ```python
