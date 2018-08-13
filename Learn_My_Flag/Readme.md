@@ -25,4 +25,6 @@ I got a different error as output, saying the expected output size is 1. Then ru
 
 Knowing the layers it was easy then
 
+![output_learnflag](https://user-images.githubusercontent.com/42334661/44018310-f62756c8-9ef8-11e8-91cd-49e5e0f703e7.jpeg)
+
 
