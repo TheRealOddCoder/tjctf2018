@@ -14,4 +14,6 @@ That's why it's called "took an L".
 I found a github repo that implemented lc4 algorithm,
 https://github.com/dstein64/LC4/blob/master/documentation.md
 
+Then the flag is easily decrypted.
+
 
