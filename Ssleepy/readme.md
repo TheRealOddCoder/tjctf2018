@@ -9,5 +9,8 @@ Export the bytes as .zip file. The zip contains .pem file(a key). Looking at the
 So, we need to decrypt the SSL traffic using the private key obtained from the zip file.
 
 Edit->Preferences->Choose SSL from the protocols tab
-In here, select the private key, client IP, port in RSA key lists.
+In here, select the private key, client IP, port in "RSA key lists".
 
+![screenshot 347](https://user-images.githubusercontent.com/42334661/44036999-df98f618-9f30-11e8-862a-1bd756683338.png)
+
+After applying the key, we can see the decrypted traffic.
