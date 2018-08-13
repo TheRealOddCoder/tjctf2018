@@ -14,3 +14,8 @@ In here, select the private key, client IP, port in "RSA key lists".
 ![screenshot 347](https://user-images.githubusercontent.com/42334661/44036999-df98f618-9f30-11e8-862a-1bd756683338.png)
 
 After applying the key, we can see the decrypted traffic.
+
+![screenshot 344](https://user-images.githubusercontent.com/42334661/44037261-89180986-9f31-11e8-8b51-70ad2856841c.png)
+
+We can see the GET request of Flag.jpg. Following the **SSL Stream**, gives us the JPEG file.
+
